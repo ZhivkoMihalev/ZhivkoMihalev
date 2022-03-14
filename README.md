@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZhivkoMihalev
 - 👀 I’m interested in C# Technologies
 - 🌱 I’m currently learning C# OOP
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on C# learning
 - 📫 You can contact with me on LinkedIn - https://www.linkedin.com/in/zhivko-mihalev
 
 <!---
